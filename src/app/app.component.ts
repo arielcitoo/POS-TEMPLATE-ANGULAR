@@ -36,8 +36,8 @@ export class AppComponent {
 
     this.configService.updateConfig({
       sidenav: {
-        title: "POS",
-        imageUrl: "/assets/img/demo/logo.svg",
+        title: "Plataforma de Servicios",
+        imageUrl: "/assets/img/demo/logo.png",
         showCollapsePin: true,
       },
     });
